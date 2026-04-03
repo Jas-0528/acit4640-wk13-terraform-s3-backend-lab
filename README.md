@@ -32,7 +32,9 @@
     ```
     
 5. Screenshots of state and lock file
-6. Cleanup
+   ![State File Screenshot](state-file.png)
+   ![Lock File Screenshot](lock-file.png)
+7. Cleanup
 
 ## Questions 
 - When is the state file created?
