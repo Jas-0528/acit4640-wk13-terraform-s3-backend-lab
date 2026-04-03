@@ -47,4 +47,4 @@
     
 - Is the lock file always in the bucket after it is created?
     
-    No, the lock file always in the bucket after it is created. Terraform automatically removes the lock file when the terraform command finishes.
+    No, the lock file is not always in the bucket after it is created. Terraform automatically removes the lock file when the terraform command finishes.
